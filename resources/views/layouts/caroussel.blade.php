@@ -19,8 +19,10 @@
 							</p>
 						</div>
 					</div>
+
 					<div class="item next left">
-						<img alt="Carousel Bootstrap Second" src="http://lorempixel.com/output/sports-q-c-1600-500-2.jpg">
+					<center>
+						<img alt="Carousel Bootstrap Second" src="f.jpg"></center>
 						<div class="carousel-caption">
 							<h4>
 								Second Thumbnail label
